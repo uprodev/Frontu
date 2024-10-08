@@ -1,0 +1,567 @@
+
+@media (max-width:1199px) {
+  .kvv-code  .content-width{
+    width: 960px;
+  }
+  .kvv-code .item-4x h2 {
+    margin: 0;
+    width: calc(100% - 500px);
+  }
+  .kvv-code .blockquote-block .video-wrap .wrap{
+    width: 390px;
+  }
+  .kvv-code .calculator-block .item{
+    padding: 40px 15px 15px 25px;
+  }
+  .kvv-code .page-banner h1{
+    font-size: 40px;
+    line-height: 1.25;
+  }
+  .kvv-code .logo-block .content{
+    justify-content: center;
+    grid-gap: 25px;
+  }
+}
+
+@media (max-width:991px) {
+  .kvv-code .content-width{
+    width: 720px;
+  }
+  .kvv-code .page-banner .bg .img-1{
+    width: 600px;
+  }
+  .kvv-code .page-banner .content{
+    margin-bottom: 100px;
+  }
+  .kvv-code .item-4x h2{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .kvv-code .item-4x .btn-wrap{
+    width: 100%;
+    justify-content: flex-start;
+    padding: 0;
+  }
+  .kvv-code .item-4x .content{
+    grid-gap: 20px;
+  }
+  .kvv-code .item-4x .item {
+    width: calc(50% - 10px);
+  }
+  .kvv-code .item-4x .item figure{
+    height: 325px;
+  }
+  .kvv-code .blockquote-block .content{
+    width: 100%;
+  }
+  .kvv-code .blockquote-block .text{
+    width: 100%;
+    margin-bottom: 25px;
+  }
+  .kvv-code .blockquote-block .video-wrap{
+    width: 100%;
+  }
+  .kvv-code .blockquote-block .video-wrap .wrap{
+    position: relative;
+    width: 100%;
+  }
+  .kvv-code .text-img .text{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .kvv-code .text-img figure{
+    width: 100%;
+    margin: 0;
+  }
+  .kvv-code .calculator-block .left{
+    width: 100%;
+    order: 1;
+  }
+  .kvv-code .calculator-block .bottom{
+    order: 2;
+    margin-top: 40px;
+    grid-gap: 20px;
+    .item{
+      width: calc(50% - 10px);
+    }
+  }
+  .kvv-code .calculator-block .right{
+    margin-top: 25px;
+    top: 0;
+    order: 3;
+    width: 100%;
+  }
+  .kvv-code .calculator-block .right img{
+    width: 100%;
+    position: relative;
+  }
+  .kvv-code h2{
+    font-size: 24px;
+  }
+  .kvv-code .img-text .text{
+    padding-top: 0;
+  }
+  .kvv-code .calculator-block h2, .kvv-code .blockquote-block h2{
+    font-size: 30px;
+  }
+  .kvv-code .text-img figure{
+    display: none;
+  }
+  .kvv-code .text-img .mob{
+    display: block;
+    margin: 30px 0;
+  }
+  .kvv-code .page-banner-form .left{
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  .kvv-code .page-banner-form .form-wrap{
+    width: 100%;
+  }
+  .kvv-code .page-banner-form .form-wrap .img-wrap{
+    justify-content: flex-end;
+  }
+  .kvv-code .page-banner-form figure{
+    order: 0;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    img{
+      left: 0;
+    }
+  }
+  .kvv-code .page-banner-form h1{
+    order: 1;
+  }
+  .kvv-code .page-banner-form .left p{
+    order: 2;
+  }
+  .kvv-code .page-banner-form figure img{
+    left: 0;
+  }
+  .kvv-code .blockquote-block blockquote{
+    min-height: 0;
+  }
+  .kvv-code .faq-section .content{
+    padding: 30px;
+  }
+}
+
+@media (max-width:767px) {
+  .kvv-code .content-width{
+    width: 540px;
+  }
+  .kvv-code .page-banner .link-wrap{
+    width: 100%;
+    justify-content: center;
+    grid-gap: 20px;
+  }
+  .kvv-code .blockquote-block .content-wrap{
+    padding: 40px 20px 20px;
+  }
+  .kvv-code .img-text figure{
+    display: none;
+  }
+  .kvv-code .img-text .text{
+    width: 100%;
+  }
+  .kvv-code .img-text .mob{
+    width: 100%;
+    margin: 25px 0;
+    display: block;
+  }
+}
+
+@media (max-width:575px) {
+  .kvv-code .content-width{
+    width: 100%;
+    padding: 0 17px;
+  }
+  .kvv-code .page-banner h1{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 11px;
+  }
+  .kvv-code .page-banner {
+    padding: 40px 0 30px;
+  }
+  .kvv-code .page-banner .content p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 22px;
+    padding: 0 2px;
+    margin-bottom: 27px;
+  }
+  .kvv-code .page-banner .btn-wrap{
+    width: 280px;
+    margin: 0 auto 40px;
+    grid-gap: 10px;
+    flex-wrap: wrap;
+    a{
+      width: 100%;
+      justify-content: center;
+    }
+  }
+  .kvv-code .page-banner .bg .img-1{
+    display: none;
+  }
+  .kvv-code .page-banner figure{
+    display: block;
+    margin-bottom: -22px;
+    img{
+      width: 110%;
+      max-width: 110%;
+     position: relative;
+      left: 50%;
+      transform: translate(-50%,0);
+    }
+  }
+  .kvv-code .page-banner .content {
+    margin-bottom: -8px;
+  }
+  .kvv-code .page-banner .link-wrap{
+    grid-gap: 12px 15px;
+  }
+  .kvv-code h2{
+    font-size: 26px;
+    line-height: 1.25;
+  }
+  .kvv-code .logo-block {
+    padding: 50px 0 25px;
+  }
+  .kvv-code .logo-block h2 {
+    margin-bottom: 23px;
+  }
+  .kvv-code .logo-block .content{
+    grid-gap: 20px;
+    .item{
+      width: calc(33.33% - 14px);
+      display: flex;
+      justify-content: center;
+      img{
+        margin: auto;
+        transform: scale(0.95);
+      }
+    }
+  }
+  .kvv-code .item-4x h2{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 24px;
+  }
+  .kvv-code .item-4x {
+    padding: 20px 0 10px;
+  }
+  .kvv-code .item-4x .btn-wrap{
+    a{
+      padding: 0 10px;
+      font-size: 18px;
+    }
+  }
+  .kvv-code .item-4x .item figure{
+    height: 160px;
+    padding: 20px;
+    margin-bottom: 9px;
+    img{
+      width: 105px;
+      max-width: 100%;
+    }
+  }
+  .kvv-code .item-4x .title-wrap{
+    margin-bottom: 25px;
+  }
+  .kvv-code .item-4x .item h6{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 7px;
+  }
+  .kvv-code .item-4x .item p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .kvv-code .item-4x .content {
+    grid-gap: 15px 20px;
+  }
+  .kvv-code .calculator-block h2, .kvv-code .blockquote-block h2{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 35px;
+  }
+  .kvv-code .blockquote-block {
+    padding: 24px 0 25px;
+  }
+  .kvv-code .blockquote-block h2{
+    margin-bottom: 25px;
+  }
+  .kvv-code .blockquote-block .content{
+    margin: 0 3px;
+    width: calc(100% - 6px);
+  }
+  .kvv-code .blockquote-block .text .icon-wrap{
+    margin-bottom: 20px;
+    img{
+      width: 44px;
+    }
+  }
+  .kvv-code .blockquote-block .content-wrap {
+    padding: 40px 30px 27px;
+  }
+  .kvv-code .blockquote-block blockquote{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px;
+  }
+  .kvv-code .blockquote-block .text{
+    margin-bottom: 31px;
+  }
+  .kvv-code .blockquote-block .video-wrap .wrap{
+    width: calc(100% + 76px);
+    margin-left: -38px;
+    height: 187px;
+  }
+  .kvv-code .blockquote-block .video-wrap .icon-wrap{
+    width: 48px;
+    height: 48px;
+    margin-top: -24px;
+    margin-left: -24px;
+  }
+  .kvv-code .blockquote-block .bottom{
+    margin-top: 23px;
+  }
+  .kvv-code .blockquote-block .bottom p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+  }
+  .kvv-code .blockquote-block .bottom h6{
+    margin-bottom: -2px;
+  }
+  .kvv-code .text-img {
+    padding: 32px 2px 10px;
+  }
+  .kvv-code .text-img .text p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .kvv-code .text-img .text p{
+    margin-bottom: 30px;
+  }
+  .kvv-code .text-img .text ul li a{
+    height: auto;
+    min-width: 56px;
+    padding: 12px 15px;
+  }
+  .kvv-code .text-img .mob{
+    margin: 30px 0 32px;
+  }
+  .kvv-code .text-img .text ul li a .icon-wrap{
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+  }
+  .kvv-code .text-img .text ul li a p{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    width: calc(100% - 62px);
+    padding-right: 20px;
+  }
+  .kvv-code .text-img .text ul li a .arrow-wrap{
+    position: relative;
+    left: 5px;
+  }
+  .kvv-code .calculator-block {
+    padding: 20px 0 20px;
+  }
+  .kvv-code .calculator-block p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 20px;
+  }
+  .kvv-code .calculator-block h3{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+    margin-bottom: 10px;
+  }
+  .kvv-code .calculator-block ul li{
+    padding-left: 32px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 26px;
+  }
+  .kvv-code .calculator-block .btn-wrap a{
+    width: 100%;
+  }
+  .kvv-code .calculator-block ul li:before{
+    top: 4px;
+    left: 1px;
+  }
+  .kvv-code .calculator-block .item{
+    background: rgb(247, 249, 252);
+  }
+  .kvv-code .calculator-block .item .icon-wrap img{
+    content: url("../img/icon-9.svg");
+  }
+  .kvv-code .calculator-block .item .bg img{
+    content: url("../img/icon-10.svg");
+  }
+  .kvv-code .calculator-block .item p{
+    color: rgb(24, 39, 81);
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 18px;
+    margin-bottom: 10px;
+  }
+  .kvv-code .calculator-block .bottom{
+    margin-top: 30px;
+  }
+  .kvv-code .calculator-block .item .number{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 50px;
+    margin-bottom: -2px;
+  }
+  .kvv-code .calculator-block .item {
+    padding: 14px 15px 15px 19px;
+  }
+  .kvv-code .calculator-block .item .icon-wrap {
+    margin-bottom: 10px;
+  }
+  .kvv-code .calculator-block .bottom{
+    grid-gap: 10px 15px;
+  }
+  .kvv-code .img-text {
+    padding: 39px 0 20px;
+  }
+  .kvv-code .img-text p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .kvv-code .img-text .btn-wrap {
+    margin-top: 27px;
+    a{
+      width: 100%;
+    }
+  }
+  .kvv-code .page-banner{
+    overflow: hidden;
+  }
+  .kvv-code .page-banner-form figure img{
+    max-width: 115%;
+  }
+  .kvv-code .page-banner-form {
+    position: relative;
+    padding: 25px 0 20px;
+  }
+  .kvv-code .page-banner-form h1{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 40px;
+  }
+  .kvv-code .page-banner-form figure{
+    margin-bottom: -2px;
+  }
+  .kvv-code .page-banner-form .left p{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+  }
+  .kvv-code .page-banner-form h1{
+    margin-bottom: 18px;
+  }
+  .kvv-code .page-banner-form .left{
+    margin-bottom: 20px;
+  }
+  .kvv-code .page-banner-form .form-wrap .img-wrap{
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 6px;
+    order: 0;
+    padding-right: 20px;
+  }
+  .kvv-code .page-banner-form .form-wrap .title{
+    width: 100%;
+    order: 2;
+    margin-bottom: 11px;
+  }
+  .kvv-code .page-banner-form .form-wrap{
+    padding: 29px 17px 33px;
+  }
+  .kvv-code .form-banner .input-wrap-tel-code {
+    width: 121px;
+  }
+  .kvv-code .form-banner .input-wrap-tel-code input {
+    max-width: 121px !important;
+    padding: 0 0 0 121px !important;
+  }
+  .kvv-code .form-banner .input-wrap-tel {
+    width: calc(100% - 119px - 16px);
+  }
+  .kvv-code .form-banner .input-wrap-submit{
+    margin-top: 10px;
+  }
+  .kvv-code .form-banner .bg{
+    max-height: 767px;
+  }
+  .kvv-code .logo-move {
+    padding: 28px 0 23px;
+  }
+  .kvv-code .logo-move .item a{
+    width: 151px;
+    height: 85px;
+  }
+  .kvv-code .logo-move .item a:before{
+    height: 48px;
+    width: 48px;
+  }
+  .kvv-code .logo-move h2 {
+    margin: 0 0 25px;
+  }
+  .kvv-code .faq-section {
+    padding: 25px 0 50px;
+  }
+  .kvv-code .faq-section .content{
+    padding: 25px 16px;
+  }
+  .kvv-code .faq-section .accordion-thumb p{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+  }
+  .kvv-code .faq-section .accordion-thumb {
+    height: 80px;
+    padding: 5px 56px 5px 24px;
+  }
+  .kvv-code .faq-section .accordion-thumb:after{
+    right: 15px;
+    width: 14px;
+    height: 14px;
+    margin-top: -7px;
+  }
+  .kvv-code .faq-section .accordion-panel .wrap {
+    padding: 0 24px 25px 24px;
+    position: relative;
+    z-index: 10;
+  }
+  .kvv-code .faq-section .accordion-panel .wrap p{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+  }
+  .kvv-code .page-banner-form{
+    overflow: hidden;
+  }
+}
